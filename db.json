@@ -1,0 +1,155 @@
+{
+  "users": [
+    {
+      "name": "Ananya Reddy",
+      "username": "ananya_r",
+      "email": "ananya@gmail.com",
+      "phone": "666-444-5553",
+      "website": "ananya.in",
+      "id": "y0yZ9zUDq4c"
+    },
+    {
+      "name": "Arjun Patel",
+      "username": "arjun_p",
+      "email": "arjun@gmail.com",
+      "phone": "555-555-6666",
+      "website": "arjun.in",
+      "id": "LFLqikkYMUI"
+    },
+    {
+      "name": "Priya Mehta",
+      "username": "priya_m",
+      "email": "priya@gmail.com",
+      "phone": "444-666-7777",
+      "website": "priya.in",
+      "id": "jLBdJWckZl8"
+    },
+    {
+      "name": "David Miller",
+      "username": "david_m",
+      "email": "david@gmail.com",
+      "phone": "333-777-8888",
+      "website": "david.dev",
+      "id": "LmLEpuUH6JM"
+    },
+    {
+      "name": "Sophia Brown",
+      "username": "sophia_b",
+      "email": "sophia@gmail.com",
+      "phone": "222-888-9999",
+      "website": "sophia.dev",
+      "id": "gg38z70YbwA"
+    },
+    {
+      "name": "Liam Wilson",
+      "username": "liam_w",
+      "email": "liam@gmail.com",
+      "phone": "111-999-0000",
+      "website": "liam.dev",
+      "id": "N29ZOL6k7VM"
+    },
+    {
+      "name": "Leanne Graham",
+      "email": "leanne@gmail.com",
+      "phone": "010-692-6593 x09125",
+      "id": "gsB5L6rGHns"
+    },
+    {
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "ervin@gmail.com",
+      "phone": "1-770-736-8031",
+      "website": "ervin.net",
+      "id": "L3FhSyCFTbs"
+    },
+    {
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "clementine@gmail.com",
+      "phone": "1-463-123-4447",
+      "website": "clementine.info",
+      "id": "tv48181twwY"
+    },
+    {
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "patricia@gmail.com",
+      "phone": "493-170-9623",
+      "website": "patricia.biz",
+      "id": "IgoE3eWTeIY"
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "chelsey@gmail.com",
+      "phone": "(254)954-1289",
+      "website": "chelsey.org",
+      "id": "Y99CUbNiRt4"
+    },
+    {
+      "name": "Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "dennis@gmail.com",
+      "phone": "1-477-935-8478",
+      "website": "dennis.biz",
+      "id": "_6IXJVbbK7U"
+    },
+    {
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "kurtis@gmail.com",
+      "phone": "210.067.6132",
+      "website": "kurtis.info",
+      "id": "xoidf2XjN5E"
+    },
+    {
+      "name": "Nicholas Runolfsdottir",
+      "username": "Maxime_Nienow",
+      "email": "nicholas@gmail.com",
+      "phone": "586.493.6943",
+      "website": "nicholas.org",
+      "id": "zCznwktMYo8"
+    },
+    {
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "glenna@gmail.com",
+      "phone": "(775)976-6794",
+      "website": "glenna.biz",
+      "id": "dUj4uP7m9RA"
+    },
+    {
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "clementina@gmail.com",
+      "phone": "1-463-123-5678",
+      "website": "clementina.net",
+      "id": "-Tl46hvjSHo"
+    },
+    {
+      "name": "John Doe",
+      "username": "johnd",
+      "email": "john@gmail.com",
+      "phone": "999-111-2222",
+      "website": "john.dev",
+      "id": "YmshTkD5N8Q"
+    },
+    {
+      "name": "Jane Smith",
+      "username": "janes",
+      "email": "jane@gmail.com",
+      "phone": "888-222-3333",
+      "website": "jane.dev",
+      "id": "1Lmdqm8evDs"
+    },
+    {
+      "name": "Rahul Sharma",
+      "username": "rahul_s",
+      "email": "rahul@gmail.com",
+      "phone": "777-333-4444",
+      "website": "rahul.in",
+      "id": "vdLl8bYZBlk"
+    }
+  ]
+  
+}
